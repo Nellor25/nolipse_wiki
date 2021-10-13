@@ -2,8 +2,8 @@
 coverY: 0
 ---
 
-# Welcome!
+# Repository Wiki Nolipse!
 
-## Welcome aboard!
+## Wiki Nolipse!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Bienvenue sur le repository Github du wiki de nolipse
